@@ -15,7 +15,7 @@ module "gateway" {
   }
 
   change_management_parameters = {
-    change_requested_by = "Young Ha AFT MGMT"
+    change_requested_by = "Protoss Probe"
     change_reason       = "Learn AWS Control Tower Account Factory for Terraform"
   }
 
