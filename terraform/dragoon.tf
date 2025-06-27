@@ -12,6 +12,7 @@ module "dragoon" {
 
   account_tags = {
     "gateway" = "true"
+    "type" = "ground"
   }
 
   change_management_parameters = {
