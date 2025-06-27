@@ -4,7 +4,7 @@ module "dragoon" {
   control_tower_parameters = {
     AccountEmail              = "younghs+aft-dragoon@amazon.com"
     AccountName               = "Protoss Dragoon"
-    ManagedOrganizationalUnit = "Protoss Gateway"
+    ManagedOrganizationalUnit = "Protoss Stargate"
     SSOUserEmail              = "younghs+aft-member@amazon.com"
     SSOUserFirstName          = "Protoss"
     SSOUserLastName           = "Member"
