@@ -12,6 +12,7 @@ module "high_templar" {
 
   account_tags = {
     "gateway" = "true"
+    "templar" = "true"
   }
 
   custom_fields = {
