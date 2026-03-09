@@ -7,7 +7,7 @@ module "gateway" {
     ManagedOrganizationalUnit = "Protoss Gateway"
     SSOUserEmail              = "younghs+aft-member@amazon.com"
     SSOUserFirstName          = "Protoss"
-    SSOUserLastName           = "Member"
+    SSOUserLastName           = "Zealot"
   }
 
   account_tags = {
