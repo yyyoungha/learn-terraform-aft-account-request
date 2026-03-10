@@ -12,7 +12,6 @@ module "dragoon" {
 
   account_tags = {
     "gateway" = "true"
-    "templar" = "true"
   }
 
   custom_fields = {
