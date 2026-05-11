@@ -1,4 +1,4 @@
-module "corsair.tf" {
+module "corsair" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
