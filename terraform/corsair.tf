@@ -17,6 +17,8 @@ module "corsair" {
     group = "stargate"
   }
 
+  account_customizations_name = ""
+
   change_management_parameters = {
     change_requested_by = "Protoss Probe"
     change_reason       = "Account Provisioning Test"
